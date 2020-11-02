@@ -10,3 +10,5 @@
 # My name is Katie, and my favorite food is ice cream. 
 
 # My name is Jhen, and my favorite food is sushi. Yummy fish!
+
+# My name is Annie, and my favorite food is peaches.
