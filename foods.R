@@ -6,3 +6,5 @@
 # My name is Glen Coco, and my favorite food is candy canes.
 
 # My name is Leah, and my favorite food is coconut. 
+
+# My name is Katie, and my favorite food is ice cream. 
